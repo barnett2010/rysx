@@ -1,4 +1,4 @@
-# Blog Title :link: https://barnett2010.github.io/rysx.github.io 
+# Blog Title :link: https://barnett2010.github.io/rysx/
 ### :page_facing_up: [0](https://barnett2010.github.io/rysx.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
